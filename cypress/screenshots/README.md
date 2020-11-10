@@ -1,1 +1,1 @@
-Folder to hold the screenshots
+Folder to hold the screenshot
